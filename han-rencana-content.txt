@@ -3,6 +3,9 @@ RENCANA CONTENT
 -belajar php
 -belajar javascript
 * framework javascript
-* esp
+  ^ angular
+  ^ react
+
 * python
+ ^ laravel
 -belajar tailwinds
