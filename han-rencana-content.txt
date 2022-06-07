@@ -2,4 +2,6 @@ RENCANA CONTENT
 
 -belajar php
 -belajar javascript
+* framework javascript
+* esp
 -belajar tailwinds
