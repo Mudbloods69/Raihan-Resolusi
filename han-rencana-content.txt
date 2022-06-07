@@ -6,5 +6,7 @@ RENCANA CONTENT
   ^ vue
   ^ laravel
 * esp
+ main
 * python
+ ^ laravel
 -belajar tailwinds
