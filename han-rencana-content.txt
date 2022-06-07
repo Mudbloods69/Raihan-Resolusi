@@ -4,4 +4,5 @@ RENCANA CONTENT
 -belajar javascript
 * framework javascript
 * esp
+* python
 -belajar tailwinds
